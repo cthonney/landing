@@ -1,0 +1,20 @@
+.banner {
+    background-image: url(images/four.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 60px 0;
+    
+  }
+
+  .banner h1 {
+    color: rgb(255, 251, 0);
+    font-weight: bold;
+    font-size: 35px;
+  }
+  
+  .banner p {
+    color: rgba(255, 251, 0, 0.685);
+
+    font-size: 25px;
+    font-weight: bold;
+  }
